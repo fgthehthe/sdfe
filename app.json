@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/fgthehthe/sdfe",
+  "repository": "https://github.com/fgthehthe/sdfe",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
